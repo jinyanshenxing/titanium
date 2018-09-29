@@ -12,11 +12,11 @@
     "settings": {
       "vnext": [
         {
-          "address": "openshift-poi.7e14.starter-us-west-2.openshiftapps.com", // tls 需要域名，所以这里应该填自己的域名
+          "address": "openshift-poi2333.1d35.starter-us-east-1.openshiftapps.com", // tls 需要域名，所以这里应该填自己的域名
           "port": 443,
           "users": [
             {
-              "id": 6239c170c-d85b-458e-a380-83994787b946",
+              "id": 639c170c-d85b-458e-a380-83994787b946",
               "alterId": 64
             }
           ]

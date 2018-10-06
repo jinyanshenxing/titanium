@@ -41,8 +41,8 @@
       ]
     },
       "streamSettings": {
-      "network": "tcp",
-      "security": "none",
+      "network": "ws",
+      "security": "tls",
       "tlsSettings": {
         "serverName": "",
         "allowInsecure": false

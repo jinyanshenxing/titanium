@@ -28,12 +28,12 @@
       "settings": {
       "vnext": [
         {
-          "address": "162.245.239.154",
+          "address": "81.90.188.48",
           "port": ,
           "users": [
             {
-              "id": "d09cf4f4-434e-11e8-9bc6-003048d380c6",
-              "alterId": 100,
+              "id": "e1d8107a-65c8-4ac5-878d-002301a6791c",
+              "alterId": 62363,
               "security": "auto"
             }
           ]
@@ -41,7 +41,7 @@
       ]
     },
       "streamSettings": {
-      "network": "ws",
+      "network": "tcp",
       "security": "tls",
       "tlsSettings": {
         "serverName": "",

@@ -28,12 +28,12 @@
       "settings": {
       "vnext": [
         {
-          "address": "openshift-titanium.7e14.starter-us-west-2.openshiftapps.com",
+          "address": "162.245.239.154",
           "port": ,
           "users": [
             {
-              "id": "239c170c-d85b-458e-a380-83994787b946",
-              "alterId": 64,
+              "id": "d09cf4f4-434e-11e8-9bc6-003048d380c6",
+              "alterId": 100,
               "security": "auto"
             }
           ]

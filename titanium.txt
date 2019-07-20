@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2019 SSRTOOL.COM
  * Website: https://www.ssrtool.com
- * Last Updated: 2019-07-10 00:00:01
+ * Last Updated: 2019-07-20 00:00:01
  */
 var direct = "__DIRECT__";
 if (direct == "__DIR" + "ECT__") direct = "DIRECT;";
@@ -301,14 +301,17 @@ var rules = [
 	"||boomssr.com",
 	"||bwgyhw.com",
 	"||castbox.fm",
+	"||chinatimes.com",
 	"||clyp.it",
 	"||cmcn.org",
 	"||cmx.im",
 	"||dailyview.tw",
 	"||daum.net",
 	"||depositphotos.com",
+	"||disconnect.me",
 	"||doubibackup.com",
 	"||doubmirror.cf",
+	"||encyclopedia.com",
 	"||fangeqiang.com",
 	"||cloud.feedly.com",
 	"||flyzy2005.com",
@@ -1237,6 +1240,7 @@ var rules = [
 	"||deja.com",
 	"||design.google",
 	"||digisfera.com",
+	"||dns.google",
 	"||domains.google",
 	"||duck.com",
 	"||environment.google",
@@ -2247,6 +2251,8 @@ var rules = [
 	".businessinsider.com/panama-papers",
 	".businessinsider.com/umbrella-man-hong-kong-2014",
 	"|https://www.businessinsider.com.au/*",
+	".businesstoday.com.tw",
+	"||businesstoday.com.tw",
 	".businessweek.com",
 	".busu.org/news",
 	"|https://busu.org/news",
@@ -2466,7 +2472,6 @@ var rules = [
 	"chinasoul.org",
 	"||chinasoul.org",
 	".chinasucks.net",
-	".chinatimes.com/realtimenews/260409/",
 	"||chinatopsex.com",
 	".chinatown.com.au",
 	"chinatweeps.com",
@@ -2779,7 +2784,6 @@ var rules = [
 	"||furl.net",
 	".dipity.com",
 	"||directcreative.com",
-	"|https://search.disconnect.me",
 	".discuss.com.hk",
 	"||discuss.com.hk",
 	".discuss4u.com",
